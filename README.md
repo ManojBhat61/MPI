@@ -1,4 +1,4 @@
 
-HelloWorld MPI program written in C.
+These are some of my MPI programs written in C.
 
 
